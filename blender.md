@@ -14,3 +14,5 @@ tags:
  - 3d
  - Blender foundation
 ---
+
+{% include cs-blender.md %}
